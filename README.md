@@ -1,2 +1,2 @@
 # zoo-diagram
-![Ekran görüntüsü 2024-09-26 215627](https://github.com/user-attachments/assets/fb9cbae1-19cf-4f4a-8bcd-7afc98c2a19b)
+![Ekran görüntüsü 2024-09-26 215950](https://github.com/user-attachments/assets/5d364a88-0efc-4d43-85ee-ebe8de708c4f)
